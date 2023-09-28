@@ -1,5 +1,9 @@
 def hello():
-  print("Hello")
+    print("Hello")
+
+
 def Namaste():
-  print("Namaskar")
+    print("Namaskar")
+
+
 print(hello())
